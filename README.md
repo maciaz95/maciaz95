@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maciaz95
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
